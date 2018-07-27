@@ -1,0 +1,9 @@
+8d584e2c6e462e699daa1c1bfdb972db *DESCRIPTION
+83ae0db6cf866a485973964c8a7e74da *NAMESPACE
+79c45d2062731eadaf805bd491f4dfeb *R/GUI.R
+f23cf92620a6a90dd07241b552d4be0b *R/coeff.check.R
+2b8ba5876f52040c716b4940abdbb8f4 *R/mdir.logrank.R
+4309998f5789510bd873ed44084f61db *R/teststatistic.R
+eefe8bdebf925eb7e0a5210b5cb7a0b3 *R/utility_functions.R
+9fef2ad1718bff07980f863fc57a8ed3 *man/calculateGUI.Rd
+44dd62c1497c2f09b0d558ba723dbdda *man/mdir.logrank.Rd
